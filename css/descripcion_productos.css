@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&display=swap');
+
+
+.text_product{ 
+   padding-left: 10%;
+    margin-top: 10%;
+    text-align: left;
+    font-family: 'Calligraffitti', cursive;
+}
+
+.container{
+    display: flex;
+    padding-top: cover;
+    max-width: 900px;
+    margin: auto;
+
+}
+.row{
+align-items: center;
+    display: flex;
+}
+
+.col-1{ 
+
+    margin-top: 5%;
+    width: 100%;
+}
+
+
+.col-2{ 
+
+    width: 50%;
+
+}
+
+
+.col-3{ 
+    padding-left: 11%;
+    margin-top: 5%;
+    width: 77%;
+}
+
+
+.col-4{ 
+padding-left: 10%;
+width: 100%;
+margin-top: 5%;
+
+}

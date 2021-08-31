@@ -1,0 +1,56 @@
+
+
+@media (max-width: 600px) {
+   
+     .box{ 
+         display: inherit;
+         height: auto;
+     }
+
+     .box_1{ 
+      margin-top: -50%;
+
+     }
+
+
+     .box_2{ 
+         margin-top: 6%;
+     }
+.main_section{ margin: 13%;
+     padding: inherit;
+ }
+    
+     
+     
+
+ #products{ 
+
+    display: inherit;
+     }
+
+ .text_product { 
+
+    text-align: inherit;
+   }
+
+ .mension_people { 
+     display: inherit;
+     padding: 20%;
+     margin-top: -15%;
+ 
+
+    }
+
+    .container_ventas{ 
+        margin: 7%;
+        display: inherit;
+    }
+
+
+
+}
+
+
+
+
+

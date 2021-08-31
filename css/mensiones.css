@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+h2.mension_text { 
+    text-align: center;
+    padding: 5%;
+    font-size: 30px;
+}
+
+
+.mension_people{ 
+
+padding: 5%;
+display: flex;   
+} 
+ .people{ 
+     padding: 10px;
+ }
+
+ .people_content img{ 
+    width: 100%;
+ }
+
+.people_content{ 
+    box-shadow: 0px 0 2px 1px #e6e5e9;
+}
+
+.people .people_text{ 
+    padding: 10px;
+}
